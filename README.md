@@ -4,6 +4,14 @@ This is a WordPress starter theme provided by [http://bulmapress.com/](http://bu
 
 However, for some odd reason, they did not provide a source control, nor a GitHub repository! I find myself the need to make modification, and there is no way to provide feedback to them. So here I create a new repo with they original files added and then making modification on top. 
 
+## Changes
+
+* 2022-04-17 
+  - Replace node-sass with sass package dependency to avoid install error
+  - Also fixed few minor syntax error in `.sass` source files that will not compile.
+
+## Below are original Readme file content:
+<hr/>
 
 ![screenshot.png](screenshot.png)
 
