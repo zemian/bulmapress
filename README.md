@@ -2,7 +2,7 @@
 
 This is a WordPress starter theme provided by [http://bulmapress.com/](http://bulmapress.com/).
 
-However, for some odd reason, they did not provide a source control, nor a GitHub repository! I find myself the need to make modification, and there is no way to provide feedback to them. So here I create a new repo with they original files added and then making modification on top. 
+However, for some odd reason, they only provide a direct download, but no GitHub repository! I find myself the need to make modification, and there is no way to provide feedback to them. So here I create a new repo with they original files added and then making modification on top. 
 
 ## Changes
 
